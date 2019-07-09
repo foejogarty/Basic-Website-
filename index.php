@@ -1,4 +1,4 @@
-<!-- Joseph Fogarty - L00150046 - Higher Diploma in Computing - Internet Applications  -->
+
 
 <!DOCTYPE HTML>
 <html lang="en">
